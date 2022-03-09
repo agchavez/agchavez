@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+My name is Angel Chavez i am from Honduras and system enginere 
+- I am working as a software developer at @farinter 
+
+# Skills
+- Backend development with nodejs and express
+- Backend developer with python and django
+- Frontend developer with javascript, react and angular
+- Movil developer with Dart and flutter
+- docker, SQL, NoSQL and linux management
+
+# Contanct 
 
 <!--
 **agchavez/agchavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
