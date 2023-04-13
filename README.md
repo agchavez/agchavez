@@ -4,6 +4,7 @@ My name is Angel Chavez i am from Honduras and system enginere
 
 # Skills
 - Backend development with nodejs, express and nest
+- Backend development with .NET
 - Backend developer with python and django
 - Frontend developer with javascript, react and angular
 - Movil developer with Dart and flutter
