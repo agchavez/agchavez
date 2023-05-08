@@ -10,6 +10,11 @@ My name is Angel Chavez i am from Honduras and system enginere
 - Movil developer with Dart and flutter
 - docker, SQL, NoSQL and linux management
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agchavez&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=agchavez&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=agchavez&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 # Contanct 
 - angelchavez.325.ag@gmail.com
 <!--
