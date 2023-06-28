@@ -6,8 +6,8 @@ My name is Angel Chavez i am from Honduras and system enginere
 - Backend development with nodejs, express and nest
 - Backend development with .NET
 - Backend developer with python and django
-- Frontend developer with javascript, react and angular
-- Movil developer with Dart and flutter
+- Frontend developer with react, next and angular
+- Movil developer with flutter
 - docker, SQL, NoSQL and linux management
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agchavez&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
